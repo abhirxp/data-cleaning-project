@@ -1,0 +1,11 @@
+# Python junk
+__pycache__/
+*.pyc
+
+# The Database (Don't upload this!)
+*.db
+
+# Virtual Env
+venv/
+env/
+.DS_Store
