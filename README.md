@@ -12,3 +12,7 @@ A robust Python pipeline for cleaning dirty datasets. This project demonstrates 
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/data-cleaning-project.git](https://github.com/YOUR_USERNAME/data-cleaning-project.git)
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
