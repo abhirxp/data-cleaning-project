@@ -8,4 +8,10 @@ __pycache__/
 # Virtual Env
 venv/
 env/
+
+# OS generated files
 .DS_Store
+Thumbs.db
+
+# Data files (Optional: prevent uploading large CSVs)
+*.csv
